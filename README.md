@@ -1,0 +1,3 @@
+# NovMemEEG
+
+NovMemEEG project. More updates follow soon... 
